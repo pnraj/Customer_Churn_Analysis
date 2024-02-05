@@ -78,8 +78,6 @@ Analysis of the Telco Customer Churn Dataset reveals several key insights:
 
 - `Churn Rate Trends:` Analysis of churn rates over time reveals fluctuations and trends that may coincide with changes in service offerings, pricing plans, or market conditions.
 
-- `Demographic Patterns:` Examination of churn patterns across different demographic segments (e.g., age, gender, marital status) may uncover disparities in churn behavior and inform targeted retention strategies.
-
 - `Service Usage Patterns:` Customers with specific service subscriptions or usage patterns (e.g., internet service type, contract duration) may exhibit higher or lower churn rates, indicating the influence of service quality and customer experience.
 
 - `Payment Methods and Billing Preferences:` Analysis of payment methods and billing preferences may highlight correlations with churn behavior, suggesting opportunities to optimize billing processes and enhance payment options.
@@ -97,23 +95,14 @@ A churn analysis dashboard should provide a comprehensive view of key metrics an
 
 - `Segmentation:` Enable segmentation of the customer base based on different criteria such as demographics, subscription plans, or usage patterns. Display churn rates and trends for each segment to identify high-risk groups.
 
-- `Customer Lifetime Value (CLV):` Include metrics related to customer lifetime value, such as average revenue per user (ARPU), customer acquisition cost (CAC), and CLV. Understanding the financial impact of churn can help prioritize retention efforts.
-
 - `Feature Importance:` If machine learning models are used for churn prediction, provide insights into the most important features contributing to churn prediction. This helps identify key drivers of churn and informs targeted interventions.
 
 - `Predictive Analytics:` Display predictions or forecasts of future churn based on historical data and predictive models. This allows proactive measures to be taken to mitigate churn risk.
-
-- `Customer Feedback and Sentiment Analysis:` Integrate customer feedback data from surveys, reviews, or support tickets to assess customer satisfaction and sentiment. Identify trends in feedback associated with churn and prioritize areas for improvement.
 
 - `Engagement Metrics:` Track customer engagement metrics such as login frequency, session duration, feature adoption, and usage patterns. Monitor changes in engagement levels to identify signals of potential churn.
 
 - `Retention Efforts:` Provide visibility into retention efforts and initiatives aimed at reducing churn, such as promotional campaigns, loyalty programs, or targeted offers. Measure the effectiveness of these efforts in reducing churn rates.
 
-- `Customer Journey Analysis:` Visualize the customer journey from acquisition to churn, highlighting key touchpoints and interactions along the way. Identify critical stages where churn risk is highest and focus retention efforts accordingly.
-
-- `Benchmarking:` Compare churn rates and performance metrics against industry benchmarks or competitors to assess relative performance and identify areas for improvement.
-
-- `Drill-Down and Interactivity:` Allow users to drill down into specific segments, time periods, or cohorts for deeper analysis. Provide interactive features such as filters, tooltips, and dynamic visualizations to facilitate exploration and discovery.
 
 
 ### Acknowledgments
