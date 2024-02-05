@@ -7,6 +7,15 @@
 
 - This repository contains code and resources for analyzing customer churn in subscription-based businesses. 
 - The project involves `Machine Learning Prediction` for churn, a `Power BI dashboard` with comprehensive features, `insights` drawn from the analysis, and `recommended actions` to mitigate churn.
+
+### Dashboard:
+   <p align = "center">
+<img src = ".\Images\Dashboard First Page.jpg"> </img> </p>
+
+- [Telco Customer Churn Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWRhNmJiOWYtZWY1MC00OTEwLTg5NGEtZWYyODNmMDdjMzVkIiwidCI6Ijk3ZTRiZDI4LTExNzMtNGIwYy04Yjg4LWE2NTE4ZmJiMWRkOCJ9)
+- Features:
+   - This Dashbord contains two Pages: Customer Profile & Churn Report
+
   
 ### Data Source
 The dataset was sourced from the Telco company's customer database and anonymized for privacy and confidentiality purposes. It consists of historical records of customers and their interactions with the company's services
