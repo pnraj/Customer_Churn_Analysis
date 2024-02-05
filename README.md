@@ -9,8 +9,7 @@
 - The project involves `Machine Learning Prediction` for churn, a `Power BI dashboard` with comprehensive features, `insights` drawn from the analysis, and `recommended actions` to mitigate churn.
 
 ### Dashboard:
-   <p align = "center">
-<img src = ".\Images\Dashboard First Page.jpg"> </img> </p>
+   <p align = "center"> <img src = ".\Images\Dashboard First Page.JPG"> </img> </p>
 
 - [Telco Customer Churn Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWRhNmJiOWYtZWY1MC00OTEwLTg5NGEtZWYyODNmMDdjMzVkIiwidCI6Ijk3ZTRiZDI4LTExNzMtNGIwYy04Yjg4LWE2NTE4ZmJiMWRkOCJ9)
 - Features:
